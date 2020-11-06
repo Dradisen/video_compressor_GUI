@@ -1,4 +1,4 @@
 {
-  "ffmpeg": "ffmpeg\\bin\\ffmpeg.exe",
-  "ffprobe": "ffmpeg\\bin\\ffprobe.exe"
+  "ffmpeg": "compressor\\bin\\ffmpeg.exe",
+  "ffprobe": "copressor\\bin\\ffprobe.exe"
 }
